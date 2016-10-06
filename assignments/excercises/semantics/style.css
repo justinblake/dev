@@ -1,0 +1,54 @@
+* {
+    box-sizing: border-box;
+}
+
+header {
+    text-align: center;
+    background-color: darkblue;
+    color: yellow;
+}
+
+header h1 {
+    padding: 40px;
+    margin: 0;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: darkblue;;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: yellow;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: grey;
+}
+
+.pics {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}
+
+figure {
+    display: inline-block;
+}
+
+footer {
+    background-color: darkblue;
+    color: yellow;
+}
+

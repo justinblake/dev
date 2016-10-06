@@ -1,0 +1,52 @@
+@font-face {
+    font-family: SuperMario256;
+    src: url(fonts/SuperMario256.ttf);
+}
+
+body {
+    font-family: SuperMario256;
+}
+
+.first {
+    background-color: #FFDA09;
+    color: #EB1F22;
+}
+
+.second {
+    background-color: #EB1F22;
+}
+
+h2{
+    font-size: 40px;
+}
+
+img, .luigi {
+    padding: 25px;
+}
+.third, .fourth {
+    color: #EB1F22;
+    text-align: center;
+}
+
+h4 {
+    font-size: 26px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.bottom {
+    background-color: #FFDA09;
+}
+
+img.mushroom {
+    height: auto;
+    width: auto;
+    max-width: 80px;
+    max-height: 300px;
+    padding: 5px;
+}
+
+.navbar-default {
+    background-color: white;
+    border-color: white;
+}

@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Mario's Pest Control</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+          integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link href="style.css" rel="stylesheet">
+    <link href="imgs">
+
+
+</head>
+<body>
+
+
+<div class="page-header">
+    <h1>Mario Pest Control</h1>
+</div>
+
+
+<div class="container body-cont">
+    <div class="row">
+        <div class="media col-md-4">
+            <div class="media-left media-middle">
+                <a href="#">
+                    <img class="media-object" src="imgs/goomba.png">
+                </a>
+            </div>
+            <div class="media-body">
+                <h4 class="media-heading">Goomba: 5 Coins</h4>
+                <h4 class="media-heading" id="goomba">Total Caught: 5</h4>
+            </div>
+        </div>
+
+
+        <div class="media col-md-4">
+            <div class="media-left media-middle">
+                <a href="#">
+                    <img class="media-object" src="imgs/bobomb.png">
+                </a>
+            </div>
+            <div class="media-body">
+                <h4 class="media-heading">Bob-ombs: 7 Coins</h4>
+                <h4 class="media-heading">Total Caught: 9</h4>
+            </div>
+        </div>
+
+
+        <div class="media col-md-4">
+            <div class="media-left media-middle">
+                <a href="#">
+                    <img class="media-object" src="imgs/cheepcheep.png">
+                </a>
+            </div>
+            <div class="media-body">
+                <h4 class="media-heading">Cheep-cheeps: 11 Coins</h4>
+            </div>
+        </div>
+
+    </div>
+    <div class="row right">
+
+        <div class="col-md-4">
+            <label for="goombaTotal">Total Caught:</label>
+            <input type="text" class="adj-input" id="goombaTotal" placeholder="">
+        </div>
+        <div class="col-md-4">
+            <label for="bombTotal">Total Caught:</label>
+            <input type="text" class="adj-input" id="bombTotal" placeholder="">
+        </div>
+        <div class="col-md-4">
+            <label for="cheepTotal">Total Caught:</label>
+            <input type="text" class="adj-input" id="cheepTotal" placeholder="">
+
+        </div>
+    </div>
+    <div class="row right">
+
+        <div class="col-md-5"></div>
+
+        <div class="col-md-2">
+            <button type="submit" class="btn btn-default btn-primary col-md-2 submit" onclick="getTotals()">Submit
+            </button>
+        </div>
+
+        <div class="col-md-5"></div>
+
+
+    </div>
+
+    <div class="row right">
+        <div class=" col-md-4">
+            <label for="goombaCost">Goomba Cost:</label>
+            <input type="text" class="adj-input" id="goombaCost" placeholder="">
+        </div>
+        <div class=" col-md-4">
+            <label for="bombCost">Bob-ombs Cost:</label>
+            <input type="text" class="adj-input" id="bombCost" placeholder="">
+        </div>
+        <div class=" col-md-4">
+            <label for="cheepCost">Cheep-cheep Cost:</label>
+            <input type="text" class="adj-input" id="cheepCost" placeholder="">
+        </div>
+
+    </div>
+
+    <div class="row right">
+        <div class="col-md-4"></div>
+        <div class=" col-md-4 grand-total">
+            <label for="grandTotal">Grand Total:</label>
+            <input type="text" class="adj-input" id="grandTotal" placeholder="">
+        </div>
+        <div class="col-md-4"></div>
+    </div>
+
+
+</div>
+
+
+<nav class="navbar navbar-default navbar-fixed-bottom">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <h4>Please Send All Inquiries To: <br>
+                    <bold>Mario@ThePlumber.com</bold>
+                </h4>
+            </div>
+            <div class="col-md-4">
+                <h4>Our offices are located at: <br>
+                    <bold>1234 O-Ring Way, New York, NY</bold>
+                </h4>
+            </div>
+            <div class="col-md-4">
+                <h4>Our Website is: <br>
+                    <bold>ThePlumber.flush</bold>
+                </h4>
+            </div>
+        </div>
+    </div>
+</nav>
+
+
+<div></div>
+
+<script src="app.js"></script>
+</body>
+</html>

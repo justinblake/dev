@@ -1,0 +1,65 @@
+body {
+    background-color: lightgrey;
+    color: darkblue;
+}
+
+div.upper-profile {
+    display: inline-block;
+}
+
+.upper-profile {
+    text-align: center;
+    width: 100%;
+}
+
+img.profile-pic {
+    height: auto;
+    width: auto;
+    max-width: 168px;
+    max-height: 300px;
+}
+
+img, dl {
+    display: inline-block;
+    padding-left: 20px;
+
+
+}
+
+dt.basic {
+    font-size: 140%;
+}
+
+dl dt {
+    font-size: 120%;
+    font-style: normal;
+}
+
+dl dd {
+    font-size: 90%;
+    -webkit-margin-start: 0px;
+    color: black;
+}
+
+div.lower-profile {
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+}
+
+.photo-album{
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}
+
+figure {
+    display: inline-block;
+}
+
+figure img {
+    height: auto;
+    width: auto;
+    max-width: 140px;
+    max-height: 300px;
+}

@@ -1,0 +1,46 @@
+h1{
+    text-align: center;
+    border-bottom: 2px solid black;
+    padding-bottom: 15px;
+
+}
+
+h2{
+    text-align: center;
+}
+
+p, img{
+    border: 1px solid black;
+    display: inline-block;
+    width: 478px;
+    padding: 3px;
+
+}
+
+.third{
+    color: blue;
+}
+
+.noBorder{
+    border: none;
+}
+
+
+.title{
+    display: inline-block;
+    width:100%;
+
+}
+
+span p{
+    color: red;
+}
+
+
+h1{
+    color: red;
+}
+
+div h1{
+    color: green;
+}

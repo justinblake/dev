@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+          integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link href="style.css" rel="stylesheet">
+</head>
+<body>
+
+<header class="head">
+    <h1>Add, Subtract, Multiply Calculator</h1>
+</header>
+
+<div class="top">
+    <div class="first">
+        <input type="number" title="First Number" id="num-choice-add">
+        <button type="button" onclick="saveNum1()">Save</button>
+        <ul id="first-number-add">
+
+        </ul>
+        <input type="number" title="Second Number" id="sec-num-choice-add">
+        <button type="button" onclick="saveNum2()">Save</button>
+        <ul id="second-number-add">
+
+        </ul>
+        <button class="btn btn-default" onclick="sumEntry(saveNum1(), saveNum2())" type="submit" id="add">Add</button>
+        <ul id="total-sum-add" class="answer">
+
+        </ul>
+
+    </div>
+
+    <div class="second">
+        <input type="number" title="First Number" id="num-choice-sub">
+        <button type="button" onclick="subNum1()">Save</button>
+        <ul id="first-number-sub">
+
+        </ul>
+        <input type="number" title="Second Number" id="sec-num-choice-sub">
+        <button type="button" onclick="subNum2()">Save</button>
+        <ul id="second-number-sub">
+
+        </ul>
+        <button class="btn btn-default" onclick="subTotal(subNum1(), subNum2())" type="submit" id="sub">Subtract</button>
+        <ul id="total-sum-sub" class="answer">
+
+        </ul>
+
+    </div>
+
+    <div class="third">
+        <input type="number" title="First Number" id="num-choice-mult">
+        <button type="button" onclick="multNum1()">Save</button>
+        <ul id="first-number-mult">
+
+        </ul>
+        <input type="number" title="Second Number" id="sec-num-choice-mult">
+        <button type="button" onclick="multNum2()">Save</button>
+        <ul id="second-number-mult">
+
+        </ul>
+        <button class="btn btn-default" onclick="multTotal(multNum1(), multNum2())" type="submit" id="mult">Multiply</button>
+        <ul id="total-sum-mult" class="answer">
+
+        </ul>
+
+    </div>
+</div>
+<script src="app.js"></script>
+</body>
+</html>

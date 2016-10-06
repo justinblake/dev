@@ -1,0 +1,46 @@
+body {
+    font-size: 20px;
+
+}
+
+.answer {
+    padding: 0;
+    color: white;
+    font-size: 40px;
+}
+
+.top {
+    width: 80%;
+    margin: auto;
+}
+
+.head {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 30px;
+    margin-bottom: 60px;
+}
+
+.first, .second, .third {
+    display: inline-block;
+    width: 30%;
+    height: 300px;
+    padding: 20px;
+}
+
+.first {
+    background-color: blue;
+}
+
+.second {
+    background-color: green;
+}
+
+.third {
+    background-color: red;
+}
+
+h1 {
+    font-size: 40px;
+}
