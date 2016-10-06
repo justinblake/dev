@@ -14,27 +14,42 @@ function sendText(name) {
 
 function attemptCall(name, call, dontCall, sendText) {
 
-
-}
-
-for (var i = 0; i <= names.length; i++) {
-
-    var str = names[i];
     var hasDuplicates = (/([a-zA-Z]).*?\1/).test(str);
 
     if (hasDuplicates) {
-        var arrayNameText = names[i];
-        sendText(arrayName);
+
+
+
+        setTimeout(function () {
+            sendText(name)
+        }, 3000)
+
     } else {
 
-        if (names[i] % 2 === 0) {
-            var arrayName = names[i];
-            call(arrayName);
+        if (name % 2 === 0) {
+
+
+
+            setTimeout(function () {
+                call(name)
+            }, 3000)
+
         } else {
-            var arrayNameOdd = names[i];
-            dontCall(arrayNameOdd);
+
+
+
+            setTimeout(function () {
+                dontCall(name)
+            }, 3000)
 
         }
     }
+}
+
+for (var i = 0; i < names.length; i++) {
+
+    var str = names[i];
+    attemptCall(str, call, dontCall, sendText);
+
 
 }
