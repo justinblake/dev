@@ -1,0 +1,44 @@
+body {
+    background-color: #18bc9c;
+    color: white;
+}
+
+.top-nav {
+    background-color: #2c3e50;
+    color: white;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-center1 {
+    display: inline-block;
+    width: 100%;
+}
+
+.line-stuff {
+    display: inline-block;
+}
+
+.centering {
+    padding-left: 22%;
+}
+
+h1 {
+    font-size: 61px;
+}
+
+.image-down {
+    margin-top: 140px;
+}
+
+.star-line {
+    width: 100px;
+    height: 3px;
+    border: 2px solid white;
+}
+
+.star-padding {
+    padding-top: 11px;
+}
