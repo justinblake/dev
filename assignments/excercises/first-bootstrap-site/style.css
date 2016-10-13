@@ -34,6 +34,8 @@ h1 {
 }
 
 .star-line {
+    display: inline-block;
+    margin-bottom: 8px;
     width: 100px;
     height: 3px;
     border: 2px solid white;
@@ -41,4 +43,11 @@ h1 {
 
 .star-padding {
     padding-top: 11px;
+
+}
+
+.star {
+    width: 17px;
+    padding-left: 0;
+    padding-right: 0;
 }
