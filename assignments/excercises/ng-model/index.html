@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="MyApp">
+<head>
+    <meta charset="UTF-8">
+    <title>ng-model</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+          integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    <link href="style.css" rel="stylesheet">
+</head>
+<body ng-controller="MainCtrl">
+
+<div class="nav navbar"></div>
+
+<div class="row">
+    <div class="col-md-2"></div>
+    <div class="col-md-2">
+        <input ng-model="firstInput" placeholder="First Input">
+    </div>
+    <div class="col-md-2 well">
+        <h2>{{firstInput}}</h2>
+    </div>
+    <div class="col-md-2"></div>
+</div>
+<div class="row">
+    <div class="col-md-2"></div>
+    <div class="col-md-2">
+        <input ng-model="secondInput" placeholder="Second Input">
+    </div>
+    <div class="col-md-2 well">
+        <h2>{{secondInput}}</h2>
+    </div>
+    <div class="col-md-2"></div>
+</div>
+<div class="row">
+    <div class="col-md-2"></div>
+    <div class="col-md-2">
+        <input ng-model="thirdInput" placeholder="Third Input">
+    </div>
+    <div class="col-md-2 well">
+        <h2>{{thirdInput}}</h2>
+    </div>
+    <div class="col-md-2"></div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular.js"></script>
+<script src="app.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="MyApp">
+<head>
+    <meta charset="UTF-8">
+    <title>Angular Beginnings 2</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+          integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+</head>
+<body ng-controller="MainCtrl">
+
+<div class="row">
+    <div class="col-md-2"></div>
+    <div class="col-md-5">
+        <input ng-model="test" placeholder="New State">
+        <button ng-click="showState(test)">Press Here</button>
+    </div>
+
+
+</div>
+<div class="row">
+    <div class="col-md-2" ng-repeat="state in newObject.State">
+        <span>{{state}}</span>
+    </div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular.min.js"></script>
+<script src="app.js"></script>
+
+</body>
+</html>

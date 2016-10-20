@@ -2,29 +2,97 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d33218ed-1348-4e2f-a473-0eb2a25fdeba" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/projects/business-time/imgs/brighton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/projects/business-time/imgs/chaos.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/projects/business-time/imgs/chaos2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/projects/business-time/imgs/usafp.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/projects/business-time/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/projects/business-time/brighton.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/projects/business-time/css/brighton.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/projects/business-time/css/byu-coaching.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/projects/business-time/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/projects/business-time/css/usafp.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/projects/business-time/elevate.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/projects/business-time/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/projects/business-time/usafp.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/projects/high-score-haven/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/projects/high-score-haven/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/projects/high-score-haven/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/warmups/october12.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/projects/daily-planet-editor" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/node_modules/readline-sync/screen_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/node_modules/readline-sync/screen_02.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/node_modules/readline-sync/screen_03.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/projects/kandj-diaries/blog-posts/fifth.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/projects/kandj-diaries/blog-posts/first.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/projects/kandj-diaries/blog-posts/fourth.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/projects/kandj-diaries/blog-posts/second.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/projects/kandj-diaries/blog-posts/seventh.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/projects/kandj-diaries/blog-posts/sixth.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/projects/kandj-diaries/blog-posts/third.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/projects/kandj-diaries/carousel/bg1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/projects/kandj-diaries/carousel/bg2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/projects/kandj-diaries/carousel/bg3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/projects/kandj-diaries/carousel/bg4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/projects/kandj-diaries/imgs/asos.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/projects/kandj-diaries/imgs/gap.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/projects/kandj-diaries/imgs/j.crew.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/projects/kandj-diaries/imgs/kate.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/projects/kandj-diaries/imgs/logo-h.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/projects/kandj-diaries/imgs/nordstrom.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/projects/kandj-diaries/imgs/sephora.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/warmups/node_modules/readline-sync/screen_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/warmups/node_modules/readline-sync/screen_02.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/warmups/node_modules/readline-sync/screen_03.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/justin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angular.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-beginnings/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-beginnings/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-beginnings2/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-beginnings2/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-beginnings3/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-beginnings3/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-name-badge/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-name-badge/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-name-badge/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-ugly-things/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-ugly-things/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-ugly-things/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-yoda-speak/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-yoda-speak/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-yoda-speak/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/hit-list/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/hit-list/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/hit-list/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/ng-model/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/ng-model/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/ng-model/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/ng-repeat/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/ng-repeat/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/node_modules/readline-sync/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/node_modules/readline-sync/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/node_modules/readline-sync/LICENSE-MIT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/node_modules/readline-sync/README-Deprecated.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/node_modules/readline-sync/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/node_modules/readline-sync/lib/encrypt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/node_modules/readline-sync/lib/read.cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/node_modules/readline-sync/lib/read.ps1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/node_modules/readline-sync/lib/read.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/node_modules/readline-sync/lib/readline-sync.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/node_modules/readline-sync/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/projects/kandj-diaries/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/projects/kandj-diaries/kandj.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/projects/kandj-diaries/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/projects/penguins/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/warmups/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/warmups/node_modules/readline-sync/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/warmups/node_modules/readline-sync/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/warmups/node_modules/readline-sync/LICENSE-MIT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/warmups/node_modules/readline-sync/README-Deprecated.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/warmups/node_modules/readline-sync/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/warmups/node_modules/readline-sync/lib/encrypt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/warmups/node_modules/readline-sync/lib/read.cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/warmups/node_modules/readline-sync/lib/read.ps1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/warmups/node_modules/readline-sync/lib/read.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/warmups/node_modules/readline-sync/lib/readline-sync.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/warmups/node_modules/readline-sync/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/warmups/october17.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/warmups/october18.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/warmups/october19.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/warmups/october20/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/warmups/october20/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/warmups/october20/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dev.iml" afterPath="$PROJECT_DIR$/.idea/dev.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignments/excercises/employee-records/style.css" afterPath="$PROJECT_DIR$/assignments/excercises/employee-records/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignments/excercises/first-bootstrap-site/index.html" afterPath="$PROJECT_DIR$/assignments/excercises/first-bootstrap-site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignments/excercises/first-bootstrap-site/style.css" afterPath="$PROJECT_DIR$/assignments/excercises/first-bootstrap-site/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignments/excercises/profile/index.html" afterPath="$PROJECT_DIR$/assignments/excercises/profile/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignments/projects/business-time/brighton.html" afterPath="$PROJECT_DIR$/assignments/projects/business-time/brighton.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignments/projects/business-time/css/style.css" afterPath="$PROJECT_DIR$/assignments/projects/business-time/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignments/projects/business-time/index.html" afterPath="$PROJECT_DIR$/assignments/projects/business-time/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignments/projects/high-score-haven/app.js" afterPath="$PROJECT_DIR$/assignments/projects/high-score-haven/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignments/projects/high-score-haven/index.html" afterPath="$PROJECT_DIR$/assignments/projects/high-score-haven/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignments/projects/high-score-haven/style.css" afterPath="$PROJECT_DIR$/assignments/projects/high-score-haven/style.css" />
     </list>
     <ignored path="dev.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,7 +104,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -45,44 +112,24 @@
     <favorites_list name="dev" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
+    <splitter split-orientation="horizontal" split-proportion="0.52503574">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/assignments/projects/business-time/index.html">
+            <entry file="file://$PROJECT_DIR$/assignments/excercises/angular-yoda-speak/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="390">
-                  <caret line="92" column="48" selection-start-line="92" selection-start-column="48" selection-end-line="92" selection-end-column="48" />
+                <state relative-caret-position="600">
+                  <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="elevate.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/assignments/projects/business-time/elevate.html">
+          <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/assignments/projects/kandj-diaries/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="405">
-                  <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="usafp.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/assignments/projects/business-time/usafp.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="405">
-                  <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="brighton.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/assignments/projects/business-time/brighton.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="405">
-                  <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+                <state relative-caret-position="700">
+                  <caret line="321" column="38" selection-start-line="321" selection-start-column="38" selection-end-line="321" selection-end-column="38" />
                   <folding />
                 </state>
               </provider>
@@ -92,51 +139,21 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/assignments/projects/business-time/css/style.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="540">
-                  <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="byu-coaching.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/assignments/projects/business-time/css/byu-coaching.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="75">
-                  <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="usafp.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/assignments/projects/business-time/css/usafp.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="60">
-                  <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="brighton.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/assignments/projects/business-time/css/brighton.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="75">
-                  <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/assignments/projects/business-time/app.js">
+            <entry file="file://$PROJECT_DIR$/assignments/excercises/angular-yoda-speak/app.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <state relative-caret-position="465">
+                  <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/assignments/excercises/angular-yoda-speak/style.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="210">
+                  <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
                   <folding />
                 </state>
               </provider>
@@ -149,8 +166,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -160,25 +177,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/assignments/excercises/call-me-maybe/maybe.js" />
-        <option value="$PROJECT_DIR$/assignments/excercises/no-duplicates/no-duplicates.js" />
-        <option value="$PROJECT_DIR$/assignments/warmups/october7-part2.js" />
-        <option value="$PROJECT_DIR$/assignments/warmups/october7.js" />
-        <option value="$PROJECT_DIR$/assignments/excercises/jquery-pest-control/app.js" />
-        <option value="$PROJECT_DIR$/assignments/excercises/test/app.js" />
-        <option value="$PROJECT_DIR$/assignments/excercises/test/index.html" />
-        <option value="$PROJECT_DIR$/assignments/excercises/test/style.css" />
-        <option value="$PROJECT_DIR$/assignments/excercises/jquery-pest-control/index.html" />
-        <option value="$PROJECT_DIR$/assignments/excercises/jquery-pest-control/style.css" />
-        <option value="$PROJECT_DIR$/assignments/warmups/october10.js" />
-        <option value="$PROJECT_DIR$/assignments/excercises/first-bootstrap-site/style.css" />
-        <option value="$PROJECT_DIR$/assignments/excercises/first-bootstrap-site/index.html" />
-        <option value="$PROJECT_DIR$/assignments/excercises/employee-records/style.css" />
-        <option value="$PROJECT_DIR$/assignments/projects/business-time/app.js" />
-        <option value="$PROJECT_DIR$/assignments/warmups/october12.js" />
         <option value="$PROJECT_DIR$/assignments/excercises/profile/index.html" />
-        <option value="$PROJECT_DIR$/assignments/projects/high-score-haven/app.js" />
-        <option value="$PROJECT_DIR$/assignments/projects/high-score-haven/index.html" />
         <option value="$PROJECT_DIR$/assignments/projects/business-time/Brighton A Day.html" />
         <option value="$PROJECT_DIR$/assignments/projects/business-time/web1.html" />
         <option value="$PROJECT_DIR$/assignments/projects/business-time/web2.html" />
@@ -186,11 +185,49 @@
         <option value="$PROJECT_DIR$/assignments/projects/business-time/css/byu-coaching.css" />
         <option value="$PROJECT_DIR$/assignments/projects/business-time/css/usafp.css" />
         <option value="$PROJECT_DIR$/assignments/projects/business-time/css/brighton.css" />
-        <option value="$PROJECT_DIR$/assignments/projects/business-time/brighton.html" />
         <option value="$PROJECT_DIR$/assignments/projects/business-time/usafp.html" />
         <option value="$PROJECT_DIR$/assignments/projects/business-time/byu-coaching.html" />
         <option value="$PROJECT_DIR$/assignments/projects/business-time/css/style.css" />
+        <option value="$PROJECT_DIR$/assignments/projects/business-time/brighton.html" />
         <option value="$PROJECT_DIR$/assignments/projects/business-time/index.html" />
+        <option value="$PROJECT_DIR$/assignments/projects/high-score-haven/style.css" />
+        <option value="$PROJECT_DIR$/assignments/projects/high-score-haven/index.html" />
+        <option value="$PROJECT_DIR$/assignments/projects/high-score-haven/app.js" />
+        <option value="$PROJECT_DIR$/assignments/projects/penguins/index.html" />
+        <option value="$PROJECT_DIR$/assignments/projects/penguins/app.js" />
+        <option value="$PROJECT_DIR$/assignments/warmups/october17.js" />
+        <option value="$PROJECT_DIR$/assignments/projects/kandj-diaries/app.js" />
+        <option value="$PROJECT_DIR$/assignments/warmups/october18.js" />
+        <option value="$PROJECT_DIR$/assignments/excercises/angular-beginnings/index.html" />
+        <option value="$PROJECT_DIR$/assignments/excercises/angular-beginnings/app.js" />
+        <option value="$PROJECT_DIR$/assignments/warmups/index.html" />
+        <option value="$PROJECT_DIR$/assignments/warmups/october19.js" />
+        <option value="$PROJECT_DIR$/assignments/excercises/angular-beginnings2/app.js" />
+        <option value="$PROJECT_DIR$/assignments/excercises/angular-beginnings2/index.html" />
+        <option value="$PROJECT_DIR$/assignments/excercises/angular-beginnings3/index.html" />
+        <option value="$PROJECT_DIR$/assignments/excercises/angular-beginnings3/app.js" />
+        <option value="$PROJECT_DIR$/assignments/excercises/ng-repeat/app.js" />
+        <option value="$PROJECT_DIR$/assignments/excercises/hit-list/style.css" />
+        <option value="$PROJECT_DIR$/assignments/excercises/hit-list/index.html" />
+        <option value="$PROJECT_DIR$/assignments/excercises/hit-list/app.js" />
+        <option value="$PROJECT_DIR$/assignments/excercises/ng-model/style.css" />
+        <option value="$PROJECT_DIR$/assignments/excercises/ng-model/app.js" />
+        <option value="$PROJECT_DIR$/assignments/excercises/ng-model/index.html" />
+        <option value="$PROJECT_DIR$/assignments/projects/kandj-diaries/style.css" />
+        <option value="$PROJECT_DIR$/assignments/projects/kandj-diaries/kandj.html" />
+        <option value="$PROJECT_DIR$/assignments/excercises/ng-repeat/index.html" />
+        <option value="$PROJECT_DIR$/assignments/warmups/october20/style.css" />
+        <option value="$PROJECT_DIR$/assignments/excercises/angular-name-badge/style.css" />
+        <option value="$PROJECT_DIR$/assignments/excercises/angular-name-badge/app.js" />
+        <option value="$PROJECT_DIR$/assignments/excercises/angular-name-badge/index.html" />
+        <option value="$PROJECT_DIR$/assignments/warmups/october20/app.js" />
+        <option value="$PROJECT_DIR$/assignments/warmups/october20/index.html" />
+        <option value="$PROJECT_DIR$/assignments/excercises/angular-ugly-things/style.css" />
+        <option value="$PROJECT_DIR$/assignments/excercises/angular-ugly-things/index.html" />
+        <option value="$PROJECT_DIR$/assignments/excercises/angular-ugly-things/app.js" />
+        <option value="$PROJECT_DIR$/assignments/excercises/angular-yoda-speak/app.js" />
+        <option value="$PROJECT_DIR$/assignments/excercises/angular-yoda-speak/index.html" />
+        <option value="$PROJECT_DIR$/assignments/excercises/angular-yoda-speak/style.css" />
       </list>
     </option>
   </component>
@@ -200,10 +237,37 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/assignments/excercises/node_modules" />
+    <handled-path value="$PROJECT_DIR$/assignments/excercises/practice-js-files/loops/node_modules" />
+    <handled-path value="$PROJECT_DIR$/assignments/node_modules" />
+    <handled-path value="$PROJECT_DIR$/assignments/projects/colossal-adventure/node_modules" />
+    <handled-path value="$PROJECT_DIR$/assignments/warmups/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1920" />
     <option name="height" value="1020" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>EmptyEventHandler</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -231,7 +295,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -300,45 +363,55 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="business-time" />
+              <option name="myItemId" value="kandj-diaries" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/git/learn-shit" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/q1t-master" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assignments/projects/business-time/imgs" />
-      <recent name="$PROJECT_DIR$/assignments/projects/business-time/css" />
-      <recent name="$PROJECT_DIR$/assignments/excercises/first-bootstrap-site/imgs" />
-      <recent name="$PROJECT_DIR$/assignments/excercises/no-duplicates" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/assignments/projects/kandj-diaries" />
+      <recent name="$PROJECT_DIR$/assignments/projects/kandj-diaries/imgs" />
+      <recent name="$PROJECT_DIR$/assignments/projects/kandj-diaries/blog-posts" />
+      <recent name="$PROJECT_DIR$/assignments/projects/kandj-diaries/carousel" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assignments/projects" />
+      <recent name="$PROJECT_DIR$/assignments/projects/kandj-diaries/carousel" />
+      <recent name="$PROJECT_DIR$/assignments" />
+      <recent name="$PROJECT_DIR$/assignments/warmups" />
       <recent name="$PROJECT_DIR$/assignments/projects/business-time/imgs" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.october12.js">
-    <configuration default="false" name="maybe.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="maybe.js" working-dir="$PROJECT_DIR$/assignments/excercises/call-me-maybe">
-      <method />
-    </configuration>
-    <configuration default="false" name="no-duplicates.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="no-duplicates.js" working-dir="$PROJECT_DIR$/assignments/excercises/no-duplicates">
+  <component name="RunManager" selected="Node.js.october19.js">
+    <configuration default="false" name="october12.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="october12.js" working-dir="$PROJECT_DIR$/assignments/warmups">
       <method />
     </configuration>
     <configuration default="false" name="october7.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="october7.js" working-dir="$PROJECT_DIR$/assignments/warmups">
       <method />
     </configuration>
-    <configuration default="false" name="october12.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="october12.js" working-dir="$PROJECT_DIR$/assignments/warmups">
+    <configuration default="false" name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/assignments/projects/penguins">
+      <method />
+    </configuration>
+    <configuration default="false" name="october17.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="october17.js" working-dir="$PROJECT_DIR$/assignments/warmups">
+      <method />
+    </configuration>
+    <configuration default="false" name="october19.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="october19.js" working-dir="$PROJECT_DIR$/assignments/warmups">
       <method />
     </configuration>
     <configuration default="true" type="BashConfigurationType" factoryName="Bash">
@@ -459,7 +532,7 @@
       <working-directory />
       <pass-parent-env>true</pass-parent-env>
       <envs />
-      <ui>bdd</ui>
+      <ui />
       <extra-mocha-options />
       <test-kind>DIRECTORY</test-kind>
       <test-directory />
@@ -576,18 +649,18 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.maybe.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.no-duplicates.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.october7.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.october12.js" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.october12.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.october7.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.app.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.october17.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.october19.js" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.october12.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.october7.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.no-duplicates.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.maybe.js" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.october19.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.october17.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.app.js" />
       </list>
     </recent_temporary>
   </component>
@@ -609,27 +682,47 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1020" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1517572" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1171459" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963988" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3961219" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39889196" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1485623" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39889196" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -644,158 +737,15 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="6" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assignments/excercises/first-bootstrap-site/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="10" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/projects/high-score-haven/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="29" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/projects/high-score-haven/app.js">
+    <entry file="file://$PROJECT_DIR$/assignments/warmups/october3.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/projects/high-score-haven/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/excercises/first-bootstrap-site/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/excercises/employee-records/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/excercises/jquery-pest-control/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="40" selection-start-line="6" selection-start-column="4" selection-end-line="7" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/excercises/first-bootstrap-site/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="870">
-          <caret line="58" column="24" selection-start-line="58" selection-start-column="24" selection-end-line="58" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/excercises/jquery-pest-control/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/excercises/jquery-pest-control/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1260">
-          <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/excercises/first-bootstrap-site/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/excercises/call-me-maybe/maybe.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/excercises/no-duplicates/no-duplicates.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/excercises/call-me-maybe/maybe.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/excercises/no-duplicates/no-duplicates.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/excercises/call-me-maybe/maybe.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/excercises/no-duplicates/no-duplicates.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/warmups/october7-part2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/warmups/october7.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/excercises/block-inline/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/excercises/test/style.css" />
-    <entry file="file://$PROJECT_DIR$/assignments/excercises/test/index.html" />
-    <entry file="file://$PROJECT_DIR$/assignments/excercises/test/app.js" />
-    <entry file="file://$PROJECT_DIR$/assignments/excercises/jquery-pest-control/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="7" column="40" selection-start-line="6" selection-start-column="4" selection-end-line="7" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -806,38 +756,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/excercises/employee-records/app.js">
+    <entry file="file://$PROJECT_DIR$/assignments/warmups/october12.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="68" column="2" selection-start-line="68" selection-start-column="2" selection-end-line="68" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/warmups/october7-part2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/node_modules/readline-sync/lib/read.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/excercises/jquery-pest-control/style.css">
+    <entry file="file://$PROJECT_DIR$/assignments/excercises/call-me-maybe/maybe.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="565">
-          <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+        <state relative-caret-position="240">
+          <caret line="16" column="54" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="54" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/excercises/jquery-pest-control/app.js">
+    <entry file="file://$PROJECT_DIR$/assignments/projects/colossal-adventure/colossal-rpg.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+        <state relative-caret-position="-1781">
+          <caret line="4" column="64" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="64" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/excercises/employee-records/index.html">
+    <entry file="file://$PROJECT_DIR$/assignments/excercises/luigis-bootstrap/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="31" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/excercises/employee-records/style.css">
+    <entry file="file://$PROJECT_DIR$/assignments/projects/business-time/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+        <state relative-caret-position="270">
+          <caret line="18" column="71" selection-start-line="18" selection-start-column="71" selection-end-line="18" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/excercises/first-bootstrap-site/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/projects/bower_components/jquery/src/css/var/rmargin.js" />
+    <entry file="file://$PROJECT_DIR$/assignments/projects/kandj-diaries/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -848,82 +827,116 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/excercises/first-bootstrap-site/style.css">
+    <entry file="file://$PROJECT_DIR$/assignments/warmups/october18.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="553">
-          <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/projects/business-time/imgs/chaos.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/excercises/profile/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/projects/colossal-adventure/colossal-rpg.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="91" column="44" selection-start-line="91" selection-start-column="34" selection-end-line="91" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/excercises/profile/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="83" column="0" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/warmups/october12.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="619">
-          <caret line="68" column="2" selection-start-line="68" selection-start-column="2" selection-end-line="68" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/projects/high-score-haven/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/projects/high-score-haven/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="745">
-          <caret line="62" column="22" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/projects/goomba/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="89" column="0" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+        <state relative-caret-position="360">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assignments/projects/high-score-haven/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="735">
+          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/projects/goomba/app.js">
+    <entry file="file://$PROJECT_DIR$/assignments/projects/penguins/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="68" column="1" selection-start-line="68" selection-start-column="1" selection-end-line="68" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/projects/high-score-haven/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/warmups/october17.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/projects/business-time/app.js">
+    <entry file="file://$PROJECT_DIR$/assignments/warmups/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/warmups/october19.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="24" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/excercises/angular-beginnings/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/excercises/angular-beginnings/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/excercises/angular-beginnings2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/excercises/angular-beginnings2/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/excercises/angular-beginnings3/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/excercises/ng-repeat/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/excercises/hit-list/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/excercises/hit-list/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/excercises/ng-model/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -931,7 +944,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/projects/business-time/css/usafp.css">
+    <entry file="file://$PROJECT_DIR$/assignments/excercises/ng-model/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
@@ -939,58 +952,170 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/projects/business-time/css/brighton.css">
+    <entry file="file://$PROJECT_DIR$/assignments/excercises/hit-list/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/projects/business-time/css/byu-coaching.css">
+    <entry file="file://$PROJECT_DIR$/assignments/excercises/semantics/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/projects/business-time/brighton.html">
+    <entry file="file://$PROJECT_DIR$/assignments/excercises/ng-model/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+        <state relative-caret-position="495">
+          <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/projects/business-time/usafp.html">
+    <entry file="file://$PROJECT_DIR$/assignments/excercises/angular-beginnings3/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+        <state relative-caret-position="510">
+          <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/projects/business-time/elevate.html">
+    <entry file="file://$PROJECT_DIR$/assignments/excercises/ng-repeat/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+        <state relative-caret-position="165">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="19" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/projects/business-time/css/style.css">
+    <entry file="file://$PROJECT_DIR$/assignments/warmups/october20/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        <state relative-caret-position="150">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/projects/business-time/index.html">
+    <entry file="file://$PROJECT_DIR$/assignments/excercises/angular-name-badge/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="92" column="48" selection-start-line="92" selection-start-column="48" selection-end-line="92" selection-end-column="48" />
+        <state relative-caret-position="735">
+          <caret line="49" column="1" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/excercises/angular-name-badge/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/warmups/october20/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="58" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/excercises/angular-name-badge/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14">
+          <caret line="41" column="43" selection-start-line="41" selection-start-column="43" selection-end-line="41" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/warmups/october20/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/excercises/profile/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="19" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/excercises/profile/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="83" column="0" selection-start-line="83" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/excercises/angular-ugly-things/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/excercises/angular-ugly-things/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="685">
+          <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/excercises/angular-ugly-things/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/projects/kandj-diaries/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="321" column="38" selection-start-line="321" selection-start-column="38" selection-end-line="321" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/projects/kandj-diaries/kandj.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3405">
+          <caret line="227" column="20" selection-start-line="227" selection-start-column="20" selection-end-line="227" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/excercises/angular-yoda-speak/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/excercises/angular-yoda-speak/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/excercises/angular-yoda-speak/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
           <folding />
         </state>
       </provider>

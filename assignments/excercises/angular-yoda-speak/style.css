@@ -1,0 +1,15 @@
+body {
+    background-image: url(http://coursework.vschool.io/content/images/2015/06/yoda-the-empire-strikes-back.jpg);
+}
+
+.thought {
+    color: black;
+    border: 5px solid black;
+    border-radius: 25px;
+    height: auto;
+    width: auto;
+    max-width: 250px;
+    max-height: 250px;
+    background-color: white;
+    top: 136px;
+}

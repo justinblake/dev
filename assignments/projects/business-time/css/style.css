@@ -30,7 +30,14 @@ iframe.col-xs-10 {
 .carousel-caption {
     border: 1px solid black;
     background-color: black;
+    border-radius: 15px;
     color: white;
-    right: 43%;
-    left: 43%;
+    right: 44%;
+    left: 44%;
+    padding-top: 13px;
+}
+
+.carousel-caption.usafp {
+    right: 46%;
+    left: 46%;
 }

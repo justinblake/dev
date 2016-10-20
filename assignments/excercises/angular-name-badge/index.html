@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="MyApp">
+<head>
+    <meta charset="UTF-8">
+    <title>Angular Name Badge</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+          integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    <link href="style.css" rel="stylesheet">
+</head>
+<body ng-controller="MainCtrl">
+
+<div class="nav navbar"></div>
+
+<div class="row">
+    <div class="col-md-3 col-xs-1"></div>
+    <div class="col-md-6 col-xs-10 form-container">
+        <form name="myForm">
+            <div class="row">
+                <div class="col-md-1 col-sm-1"></div>
+                <div class="col-md-5 col-sm-5">
+                    <input ng-model="firstName" placeholder="First Name" required>
+                </div>
+                <div class="col-md-5 col-sm-5">
+                    <input ng-model="lastName" placeholder="Last Name" required>
+                </div>
+                <div class="col-md-1 col-sm-1"></div>
+            </div>
+            <div class="row">
+                <div class="col-md-1 col-sm-1"></div>
+                <div class="col-md-5 col-sm-5">
+                    <input ng-model="email" type="email" placeholder="Email" required>
+                </div>
+                <div class="col-md-5 col-sm-5">
+                    <input ng-model="birth" placeholder="Place of Birth" required>
+                </div>
+                <div class="col-md-1 col-sm-1"></div>
+            </div>
+            <div class="row">
+                <div class="col-md-1 col-sm-1"></div>
+                <div class="col-md-5 col-sm-5">
+                    <input ng-model="phone" type="tel" placeholder="Phone Number" required>
+                </div>
+                <div class="col-md-5 col-sm-5">
+                    <input ng-model="food" placeholder="Favorite Food" required>
+                </div>
+                <div class="col-md-1 col-sm-1"></div>
+            </div>
+            <div class="row">
+                <div class="col-md-1 col-sm-1"></div>
+                <div class="col-md-10 col-sm-10 text-area">
+                    <textarea rows="4" ng-model="txtArea" cols="60" placeholder="Please tell us about yourself" required></textarea>
+                </div>
+                <div class="col-md-1 col-sm-1"></div>
+            </div>
+            <div class="row">
+                <div class="col-md-5 col-sm-5 col-xs-4"></div>
+                <div class="col-md-2 col-sm-2 col-xs-4">
+                    <button class="btn-primary" ng-click="submit()" ng-disabled="myForm.$invalid">Submit</button>
+                </div>
+                <div class="col-md-5 col-sm-5 col-xs-4"></div>
+            </div>
+
+        </form>
+    </div>
+
+    <div class="col-md-3 col-xs-1"></div>
+
+</div>
+
+<div class="row" ng-repeat="badge in badgeArray">
+    <div class="col-md-3 col-xs-1"></div>
+    <div class="col-md-6 col-xs-10 lower-badge" ng-show="isShown">
+        <div class="row">
+            <div class="col-md-12 badge-head">
+                <h3>BADGE</h3>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-5 col-sm-5 mrg-top">
+                <h4 class="inl">Name: </h4>
+                <h4 class="inl">{{badge.firstName}} {{badge.lastName}} </h4>
+            </div>
+            <div class="col-md-5 col-sm-5 mrg-top">
+                <h4 class="inl">Phone: </h4>
+                <h4 class="inl">{{badge.phone}}</h4>
+            </div>
+            <div class="col-md-1"></div>
+        </div>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-5 col-sm-5 mrg-top">
+                <h4 class="inl">Place Of Birth: </h4>
+                <h4 class="inl">{{badge.birth}}</h4>
+            </div>
+            <div class="col-md-5 col-sm-5 mrg-top">
+                <h4 class="inl">Favorite Food: </h4>
+                <h4 class="inl">{{badge.food}}</h4>
+            </div>
+            <div class="col-md-1"></div>
+        </div>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-5 col-sm-5 mrg-top">
+                <h4 class="inl">Email: </h4>
+                <h4 class="inl" >{{badge.email}}</h4>
+            </div>
+            <div class="col-md-5 col-sm-5 mrg-top">
+            </div>
+            <div class="col-md-1"></div>
+        </div>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-10 col-sm-10 mrg-top text-area">
+                <textarea rows="4" cols="80">{{badge.txtAreaShow}}</textarea>
+            </div>
+            <div class="col-md-1"></div>
+        </div>
+    </div>
+    <div class="col-md-3 col-xs-1"></div>
+</div>
+
+
+<script src="../../../angular.min.js"></script>
+<script src="app.js"></script>
+
+</body>
+</html>
+

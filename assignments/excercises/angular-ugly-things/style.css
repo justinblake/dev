@@ -1,0 +1,24 @@
+.txt-align {
+    text-align: center;
+}
+
+.input-fields {
+    background-color: #00b3ee;
+    height: 70px;
+    padding-top: 20px;
+}
+
+.btn-primary {
+    width: 100%;
+}
+
+.img-limit {
+    max-height: 200px;
+    max-width: 200px;
+    height: auto;
+    width: auto;
+}
+
+.navbar {
+    text-align: center;
+}

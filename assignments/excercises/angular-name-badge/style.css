@@ -1,0 +1,50 @@
+
+
+input, textarea {
+    margin: 15px;
+    width: 88%;
+}
+
+textarea {
+    padding-right: 6px;
+}
+
+.text-area {
+    width: 89%;
+}
+
+.form-container {
+    border: 6px solid black;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+button {
+    width: 100%;
+}
+
+.lower-badge {
+    border: 6px solid black;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.badge-head {
+    background-color: black;
+    color: white;
+}
+
+.inl {
+    display: inline;
+}
+
+.mrg-top {
+    margin-top: 15px;
+}
+
+@media only screen and (max-width: 769px) {
+    .text-area {
+        width: 100%;
+    }
+}
