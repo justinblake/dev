@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="MyApp">
+<head>
+    <meta charset="UTF-8">
+    <title>Todo</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+          integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    <link href="style.css" rel="stylesheet">
+</head>
+<body ng-controller="MainCtrl">
+
+<div class="nav navbar"></div>
+
+<div class="row">
+    <div class="col-md-2"></div>
+    <div class="col-md-3">
+        <form ng-submit="submitTodo()">
+            <div>
+                <label for="todo-name">New Todo item: </label>
+                <input id="todo-name" ng-model="todoName">
+            </div>
+            <div>
+                <label for="todo-price">Price: </label>
+                <input id="todo-price" ng-model="todoPrice">
+            </div>
+            <div>
+                <label for="todo-url">Url of image: </label>
+                <input id="todo-url" ng-model="todoUrl">
+            </div>
+            <div>
+                <label for="todo-description">Decription</label>
+                <input id="todo-description" ng-model="todoDescription">
+            </div>
+            <div>
+                <button type="submit" class="btn-primary">Submit</button>
+            </div>
+        </form>
+    </div>
+    <div class="col-md-4"></div>
+    <div class="col-md-2"></div>
+</div>
+
+<div class="row">
+    <div class="col-md-1"></div>
+    <div class="col-md-3" ng-show="isShown" ng-repeat="item in todoArray track by $index">
+        <div class="done-{{todo.done}}">
+            <h4>{{item.todoName}}</h4>
+            <!--<label for="update-todoName">Todo item: </label>-->
+            <!--<input id="update-todoName" ng-model="{{item.todoName}}">-->
+            <!--<h5>{{item.todoPrice}}</h5>-->
+            <!--<label for="update-todoPrice">Todo item: </label>-->
+            <!--<input id="update-todoPrice" ng-model="{{item.todoPrice}}">-->
+            <!--<h5>{{item.todoUrl}}</h5>-->
+            <!--<label for="update-todoName">Todo item: </label>-->
+            <!--<input id="update-todoName" ng-model="{{item.todoName}}">-->
+            <!--<h5>{{item.todoDescription}}</h5>-->
+            <!--<label for="update-todoName">Todo item: </label>-->
+            <!--<input id="update-todoName" ng-model="{{item.todoName}}">-->
+            <button class="btn-warning" ng-click="editTodo()">Edit Item</button>
+            <button class="btn-info" ng-click="updateTodo()" ng-show="showEdit">Save</button>
+            <button class="btn-success" ng-click="markDone($index)">Mark Complete</button>
+        </div>
+    </div>
+</div>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular.js"></script>
+<script src="app.js"></script>
+
+</body>
+</html>
+
+

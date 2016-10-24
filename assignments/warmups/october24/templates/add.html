@@ -1,0 +1,24 @@
+<div ng-controller="MainCtrl">
+
+    <div class="row">
+
+        <div class="col-md-2"></div>
+        <div class="col-md-4">
+            <label for="num1">Number 1:</label>
+            <input id="num1" ng-model="num1">
+            <label for="num2">Number 2:</label>
+            <input id="num2" ng-model="num2">
+
+        </div>
+        <div class="col-md-2">
+
+            <button ng-click="addStuff()">Add Stuff</button>
+
+        </div>
+        <div class="col-md-4">
+            <label for="finalAmount">Final Amount: </label>
+            <h4 id="finalAmount">{{finalAmount}}</h4>
+        </div>
+    </div>
+
+</div>

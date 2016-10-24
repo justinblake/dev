@@ -1,0 +1,26 @@
+<div ng-controller="secondCtrl">
+
+
+
+    <div class="row">
+
+        <div class="col-md-2"></div>
+        <div class="col-md-4">
+            <label for="num3">Number 3:</label>
+            <input id="num3" ng-model="num3">
+            <label for="num4">Number 4:</label>
+            <input id="num4" ng-model="num4">
+
+        </div>
+        <div class="col-md-2">
+
+            <button ng-click="multStuff()">Multiply Stuff</button>
+
+        </div>
+        <div class="col-md-4">
+            <label for="productAmount">Final Amount: </label>
+            <h4 id="productAmount">{{productAmount}}</h4>
+        </div>
+    </div>
+
+</div>
