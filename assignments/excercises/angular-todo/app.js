@@ -54,6 +54,7 @@ app.controller('MainCtrl', ['$scope', '$http', function($scope, $http){
 
     $scope.editTodo = function() {
         $scope.showEdit = true;
+
     };
 
     $scope.markDone = function($index) {

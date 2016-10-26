@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" ng-app="MyApp">
 <head>
     <meta charset="UTF-8">
     <title>Todo 2</title>
@@ -8,12 +8,77 @@
 
     <link href="style.css" rel="stylesheet">
 </head>
-<body>
+<body ng-controller="MainCtrl">
 
+<div class="navbar navbar-default"></div>
+
+<div class="row">
+    <div class="col-md-1"></div>
+    <div class="col-md-4">
+        <ng-form name="todo-list">
+            <div class="row">
+                <label for="new-todo">Please Enter a new Todo item: </label>
+                <input id="new-todo" placeholder="New Item" ng-model="newTodo.title">
+            </div>
+            <div class="row">
+                <label for="todo-url">Please enter a url: </label>
+                <input id="todo-url" placeholder="URL" ng-model="newTodo.imgUrl">
+            </div>
+            <div class="row">
+                <label for="todo-price">Please enter a price: </label>
+                <input id="todo-price" placeholder="Price" ng-model="newTodo.price">
+            </div>
+            <div class="row">
+                <label for="todo-desc">Please enter a description: </label>
+                <input id="todo-desc" placeholder="Description" ng-model="newTodo.description">
+            </div>
+            <button class="btn btn-primary" ng-click="submitNewItem(newTodo)">Submit</button>
+        </ng-form>
+    </div>
+    <div class="col-md-1"></div>
+</div>
+<div class="row">
+    <div class="col-md-1"></div>
+
+    <div class="col-md-3" ng-repeat="item in todoItems track by $index">
+
+        <div ng-show="isShown" class="editable">
+            <label for="update-title">Update Title: </label>
+            <input id="update-title" value="{{item.title}}" ng-model="item.title">
+
+            <label for="update-url">Update URL: </label>
+            <input id="update-url" value="{{item.imgUrl}}" ng-model="item.imgUrl">
+
+            <label for="update-price">Update Price: </label>
+            <input id="update-price" value="{{item.price}}" ng-model="item.price">
+
+            <label for="update-desc">Update Description: </label>
+            <input id="update-desc" value="{{item.description}}" ng-model="item.description">
+
+            <label for="completed-todo">Mark Complete</label>
+            <input id="completed-todo" type="checkbox" ng-model="item.completed">
+
+            <button class="btn btn-warning" ng-click="isShown = false">Cancel</button>
+            <button class="btn btn-primary" ng-click="saveUpdatedItem($index, item); isShown = false">Save Changes</button>
+        </div>
+
+        <div ng-hide="isShown" class="non-editable">
+            <h3 ng-class="strike: completed">{{item.title}}</h3>
+            <h3 ng-class="strike: completed">{{item.imgUrl}}</h3>
+            <h3 ng-class="strike: completed">{{item.price}}</h3>
+            <h3 ng-class="strike: completed">{{item.description}}</h3>
+            <button class="btn btn-info" ng-click="isShown = true">Update</button>
+            <button class="btn btn-danger" ng-click="deleteTodo($index)">Delete</button>
+        </div>
+
+
+    </div>
+</div>
 
 
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular.js"></script>
 <script src="app.js"></script>
+<script src="services/services.js"></script>
 
 </body>
 </html>

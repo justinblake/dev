@@ -46,18 +46,18 @@
     <div class="col-md-3" ng-show="isShown" ng-repeat="item in todoArray track by $index">
         <div class="done-{{todo.done}}">
             <h4>{{item.todoName}}</h4>
-            <!--<label for="update-todoName">Todo item: </label>-->
-            <!--<input id="update-todoName" ng-model="{{item.todoName}}">-->
-            <!--<h5>{{item.todoPrice}}</h5>-->
-            <!--<label for="update-todoPrice">Todo item: </label>-->
-            <!--<input id="update-todoPrice" ng-model="{{item.todoPrice}}">-->
-            <!--<h5>{{item.todoUrl}}</h5>-->
-            <!--<label for="update-todoName">Todo item: </label>-->
-            <!--<input id="update-todoName" ng-model="{{item.todoName}}">-->
-            <!--<h5>{{item.todoDescription}}</h5>-->
-            <!--<label for="update-todoName">Todo item: </label>-->
-            <!--<input id="update-todoName" ng-model="{{item.todoName}}">-->
-            <button class="btn-warning" ng-click="editTodo()">Edit Item</button>
+            <label for="update-todoName">Todo item: </label>
+            <input id="update-todoName" ng-model="{{item.todoName}}">
+            <h5>{{item.todoPrice}}</h5>
+            <label for="update-todoPrice">Todo item: </label>
+            <input id="update-todoPrice" ng-model="{{item.todoPrice}}">
+            <h5>{{item.todoUrl}}</h5>
+            <label for="update-todoName">Todo item: </label>
+            <input id="update-todoName" ng-model="{{item.todoName}}">
+            <h5>{{item.todoDescription}}</h5>
+            <label for="update-todoName">Todo item: </label>
+            <input id="update-todoName" ng-model="{{item.todoName}}">
+            <button class="btn-warning" ng-click="editTodo(item)">Edit Item</button>
             <button class="btn-info" ng-click="updateTodo()" ng-show="showEdit">Save</button>
             <button class="btn-success" ng-click="markDone($index)">Mark Complete</button>
         </div>
