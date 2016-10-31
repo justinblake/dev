@@ -1,0 +1,19 @@
+
+
+<div class="row">
+    <div class="col-md-5"></div>
+    <div class="col-md-2">
+        <button class="btn btn-primary btn-lg" ng-click="clickFortune()">Get your fortune here</button>
+    </div>
+    <div class="col-md-5"></div>
+</div>
+
+<div class="row" ng-repeat="quote in quoteHolder track by $index">
+    <div class="col-md-1"></div>
+    <div ng-class-odd="'odd'" ng-class-even="'even'" class="col-md-10 text-center">
+        <h3>{{quote}}</h3>
+
+    </div>
+
+</div>
+
