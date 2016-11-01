@@ -2,226 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d33218ed-1348-4e2f-a473-0eb2a25fdeba" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-favorite-state/html/oregon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-favorite-state/imgs/mike.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-favorite-state/imgs/oregon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-tech-wish/imgs/bahamas.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-tech-wish/imgs/bug.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-tech-wish/imgs/macbook.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-tech-wish/imgs/microsoft.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-tech-wish/imgs/oculus.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-tech-wish/imgs/sail.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-tech-wish/imgs/wish.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-beginnings/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-beginnings/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-beginnings2/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-beginnings2/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-beginnings3/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-beginnings3/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-demo/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-demo/demo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-favorite-state/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-favorite-state/html/about.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-favorite-state/html/home.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-favorite-state/html/why-i-love.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-favorite-state/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-favorite-state/js/about.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-favorite-state/js/home.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-favorite-state/js/why-i-love.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-favorite-state/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-mighty-clicker/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-mighty-clicker/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-mighty-clicker/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-mighty-clicker/templates/button.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-name-badge/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-name-badge/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-name-badge/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-tech-wish/html/computer-tech.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-tech-wish/html/directive-template.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-tech-wish/html/general-tech.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-tech-wish/html/home.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-tech-wish/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-tech-wish/js/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-tech-wish/js/controllers/computer-tech.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-tech-wish/js/controllers/general-tech.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-tech-wish/js/controllers/home.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-tech-wish/js/directive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-tech-wish/js/routes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-tech-wish/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-todo/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-todo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-todo/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-todo2/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-todo2/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-todo2/services/services.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-todo2/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-ugly-things/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-ugly-things/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-ugly-things/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-yoda-speak/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-yoda-speak/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/angular-excercises/angular-yoda-speak/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/node-projects/node-calculator/add.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/node-projects/node-calculator/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/node-projects/node-calculator/divide.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/node-projects/node-calculator/exponents.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/node-projects/node-calculator/multiply.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/node-projects/node-calculator/subtract.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-beginnings/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-beginnings/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-beginnings2/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-beginnings2/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-beginnings3/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-beginnings3/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-demo/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-demo/demo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-demo/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-favorite-state/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-favorite-state/html/about.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-favorite-state/html/home.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-favorite-state/html/oregon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-favorite-state/html/why-i-love.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-favorite-state/imgs/mike.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-favorite-state/imgs/oregon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-favorite-state/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-favorite-state/js/about.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-favorite-state/js/home.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-favorite-state/js/why-i-love.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-favorite-state/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-mighty-clicker/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-mighty-clicker/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-mighty-clicker/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-mighty-clicker/templates/button.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-name-badge/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-name-badge/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-name-badge/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-tech-wish/html/computer-tech.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-tech-wish/html/directive-template.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-tech-wish/html/general-tech.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-tech-wish/html/home.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-tech-wish/imgs/bahamas.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-tech-wish/imgs/bug.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-tech-wish/imgs/macbook.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-tech-wish/imgs/microsoft.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-tech-wish/imgs/oculus.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-tech-wish/imgs/sail.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-tech-wish/imgs/wish.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-tech-wish/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-tech-wish/js/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-tech-wish/js/controllers/computer-tech.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-tech-wish/js/controllers/general-tech.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-tech-wish/js/controllers/home.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-tech-wish/js/directive.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-tech-wish/js/routes.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-tech-wish/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-todo/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-todo/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-todo/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-todo2/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-todo2/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-todo2/services/services.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-todo2/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-ugly-things/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-ugly-things/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-ugly-things/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-yoda-speak/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-yoda-speak/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/angular-yoda-speak/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/block-inline/block.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/block-inline/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/block-inline/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/bootstrap/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/bootstrap/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/call-me-maybe/maybe.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/code-art-school/img/code-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/code-art-school/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/code-art-school/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/colors/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/colors/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/design-a-blog/img/bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/design-a-blog/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/design-a-blog/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/dj-js/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/dj-js/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/dj-js/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/employee-records/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/employee-records/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/employee-records/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/first-bootstrap-site/imgs/profile.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/first-bootstrap-site/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/first-bootstrap-site/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/functions/constructor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/functions/functions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/functions/uptown.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/grocery/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/grocery/grocery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/grocery/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/grocery/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/hit-list/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/hit-list/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/hit-list/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/jquery-pest-control/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/jquery-pest-control/imgs/bobomb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/jquery-pest-control/imgs/cheepcheep.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/jquery-pest-control/imgs/goomba.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/jquery-pest-control/imgs/mush.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/jquery-pest-control/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/jquery-pest-control/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/luigis-bootstrap/fonts/SuperMario256.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/luigis-bootstrap/imgs/greenmushroom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/luigis-bootstrap/imgs/luigi.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/luigis-bootstrap/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/luigis-bootstrap/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/newsies/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/newsies/milkyway.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/newsies/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/ng-model/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/ng-model/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/ng-model/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/ng-repeat/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/ng-repeat/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/no-duplicates/no-duplicates.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/practice-js-files/conditional.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/practice-js-files/loops.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/practice-js-files/loops/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/practice-js-files/loops/loop1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/practice-js-files/loops/loop2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/practice-js-files/loops/loop3.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/practice-js-files/loops/loop4.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/practice-js-files/loops/node_modules/readline-sync/.eslintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/practice-js-files/loops/node_modules/readline-sync/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/practice-js-files/loops/node_modules/readline-sync/LICENSE-MIT" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/practice-js-files/loops/node_modules/readline-sync/README-Deprecated.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/practice-js-files/loops/node_modules/readline-sync/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/practice-js-files/loops/node_modules/readline-sync/lib/encrypt.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/practice-js-files/loops/node_modules/readline-sync/lib/read.cs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/practice-js-files/loops/node_modules/readline-sync/lib/read.ps1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/practice-js-files/loops/node_modules/readline-sync/lib/read.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/practice-js-files/loops/node_modules/readline-sync/lib/readline-sync.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/practice-js-files/loops/node_modules/readline-sync/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/practice-js-files/loops/node_modules/readline-sync/screen_01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/practice-js-files/loops/node_modules/readline-sync/screen_02.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/practice-js-files/loops/node_modules/readline-sync/screen_03.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/practice-js-files/loops/temp.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/profile/imgs/DSC_0079.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/profile/imgs/boat.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/profile/imgs/disney.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/profile/imgs/jazz.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/profile/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/profile/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/semantics/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/semantics/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/simple-calc/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/simple-calc/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/simple-calc/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/social/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/social/social.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/tables/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/tables/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/the-selector-awakens/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assignments/excercises/the-selector-awakens/style.css" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assignments/excercises/index.html" afterPath="$PROJECT_DIR$/assignments/excercises/html-css-js/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/node-projects/battleship/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/node-projects/battleship/grid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assignments/excercises/node-projects/battleship/location.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="dev.iws" />
@@ -246,10 +29,10 @@
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/assignments/excercises/node-projects/node-calculator/app.js">
+            <entry file="file://$PROJECT_DIR$/assignments/excercises/node-projects/battleship/app.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="480">
-                  <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+                <state relative-caret-position="735">
+                  <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -258,32 +41,32 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="divide.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/assignments/excercises/node-projects/node-calculator/divide.js">
+        <leaf>
+          <file leaf-file-name="grid.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/assignments/excercises/node-projects/battleship/grid.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="30">
-                  <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+                <state relative-caret-position="495">
+                  <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="multiply.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/assignments/excercises/node-projects/node-calculator/multiply.js">
+          <file leaf-file-name="location.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/assignments/excercises/node-projects/battleship/location.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="30">
-                  <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+                <state relative-caret-position="330">
+                  <caret line="22" column="26" selection-start-line="10" selection-start-column="4" selection-end-line="22" selection-end-column="26" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="subtract.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/assignments/excercises/node-projects/node-calculator/subtract.js">
+          <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/assignments/excercises/node-projects/node-calculator/app.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="15">
-                  <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+                <state relative-caret-position="30">
+                  <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
                   <folding />
                 </state>
               </provider>
@@ -292,18 +75,8 @@
           <file leaf-file-name="add.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/assignments/excercises/node-projects/node-calculator/add.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="30">
-                  <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="exponents.js" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/assignments/excercises/node-projects/node-calculator/exponents.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="15">
-                  <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+                <state relative-caret-position="75">
+                  <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -327,9 +100,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/assignments/projects/poke-profile/index.html" />
-        <option value="$PROJECT_DIR$/assignments/projects/poke-profile/app.js" />
-        <option value="$PROJECT_DIR$/assignments/projects/personal-angular-site/app.js" />
         <option value="$PROJECT_DIR$/assignments/projects/personal-angular-site/js/app.js" />
         <option value="$PROJECT_DIR$/assignments/projects/personal-angular-site/html/home.html" />
         <option value="$PROJECT_DIR$/assignments/warmups/october28.js" />
@@ -378,6 +148,9 @@
         <option value="$PROJECT_DIR$/assignments/excercises/node-projects/node-calculator/divide.js" />
         <option value="$PROJECT_DIR$/assignments/excercises/node-projects/node-calculator/exponents.js" />
         <option value="$PROJECT_DIR$/assignments/excercises/node-projects/node-calculator/app.js" />
+        <option value="$PROJECT_DIR$/assignments/excercises/node-projects/battleship/grid.js" />
+        <option value="$PROJECT_DIR$/assignments/excercises/node-projects/battleship/location.js" />
+        <option value="$PROJECT_DIR$/assignments/excercises/node-projects/battleship/app.js" />
       </list>
     </option>
   </component>
@@ -513,6 +286,36 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="node-projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node-calculator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assignments" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="excercises" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node-projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="battleship" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -840,18 +643,18 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963988" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3961219" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963988" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32834226" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3961219" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -892,22 +695,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assignments/demos/directives/components/home/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/excercises/angular-tech-wish/html/general-tech.html" />
-    <entry file="file://$PROJECT_DIR$/assignments/excercises/angular-tech-wish/js/controllers/computer-tech.js" />
-    <entry file="file://$PROJECT_DIR$/assignments/demos/directives/components/directives/contact-card/contact-card.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assignments/excercises/angular-tech-wish/html/computer-tech.html" />
     <entry file="file://$PROJECT_DIR$/assignments/excercises/angular-tech-wish/html/home.html" />
     <entry file="file://$PROJECT_DIR$/assignments/excercises/angular-tech-wish/js/directive.js" />
@@ -1034,6 +821,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="637">
           <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1097,14 +885,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/excercises/node-projects/node-calculator/add.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assignments/excercises/node-projects/node-calculator/divide.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -1121,10 +901,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/excercises/html-css-js/employee-records/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/excercises/node-projects/node-calculator/add.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assignments/excercises/node-projects/node-calculator/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        <state relative-caret-position="30">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/excercises/node-projects/battleship/location.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="26" selection-start-line="10" selection-start-column="4" selection-end-line="22" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/excercises/node-projects/battleship/grid.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/excercises/node-projects/battleship/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
           <folding />
         </state>
       </provider>
