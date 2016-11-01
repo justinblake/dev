@@ -6,6 +6,7 @@
 figure > img {
     width: 100%;
     height: auto;
+
 }
 
 figcaption {
@@ -24,3 +25,4 @@ figcaption {
 .flex-item {
     background-color: white;
 }
+

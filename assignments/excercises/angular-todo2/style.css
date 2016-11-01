@@ -1,4 +1,11 @@
-.strike {
+.done-true {
     text-decoration: line-through;
-    color: lightgray;
+    color: grey;
+}
+
+img {
+    height: auto;
+    width: auto;
+    max-height: 100px;
+    max-width: 100px;
 }

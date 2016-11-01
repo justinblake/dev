@@ -1,0 +1,30 @@
+<div class="row">
+    <div class="col-md-4"></div>
+    <div class="col-md-4">
+        <div class="col-md-12 title-format">
+            <label for="word-choice">Search For a Definition On Urban Dictionary</label>
+        </div>
+        <div class="col-md-12 input-format">
+            <input id="word-choice" type="text" ng-model="newWord.word">
+        </div>
+        <div class="col-md-12 btn-format">
+            <button class="btn btn-primary btn-lg" ng-click="getDefinition(newWord.word)">Submit</button>
+        </div>
+
+    </div>
+    <div class="col-md-4"></div>
+</div>
+
+<div class="row">
+
+    <div class="container">
+        <div class="row entry-format" ng-repeat="item in newWord" ng-show="isShown">
+            <label for="author">Author: </label>
+            <input class="no-border" id="author" value="{{item.author}}">
+            <p>Definition: {{item.definition}}</p>
+            <p>Example: {{item.example}}</p>
+            <h5><a href="{{item.permalink}}">Link To Entry</a></h5>
+        </div>
+    </div>
+
+</div>

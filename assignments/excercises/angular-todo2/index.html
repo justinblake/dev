@@ -63,10 +63,10 @@
         </div>
 
         <div ng-hide="isShown" class="non-editable">
-            <h3 ng-class="strike: completed">{{item.title}}</h3>
-            <h3 ng-class="strike: completed">{{item.imgUrl}}</h3>
-            <h3 ng-class="strike: completed">{{item.price}}</h3>
-            <h3 ng-class="strike: completed">{{item.description}}</h3>
+            <h3 class="done-{{item.completed}}">{{item.title}}</h3>
+            <img src="{{item.imgUrl}}">
+            <h3 class="done-{{item.completed}}">{{item.price}}</h3>
+            <h3 class="done-{{item.completed}}">{{item.description}}</h3>
             <button class="btn btn-info" ng-click="isShown = true">Update</button>
             <button class="btn btn-danger" ng-click="deleteTodo($index)">Delete</button>
         </div>

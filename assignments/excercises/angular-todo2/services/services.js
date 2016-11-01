@@ -29,7 +29,7 @@ app.service("HttpService", ['$http', function ($http) {
     this.deleteTodo = function(todoId) {
         $http.delete('http://api.vschool.io/justin/todo/' + todoId).then(function(response){
 
-            alert('deleted');
+
         })
     }
 

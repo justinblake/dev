@@ -1,0 +1,10 @@
+.padding-bottom {
+    padding-bottom: 20px;
+}
+
+img {
+    width: auto;
+    height: auto;
+    max-height: 80%;
+    max-width: 80%;
+}

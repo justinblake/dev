@@ -10,6 +10,7 @@ app.controller('MainCtrl', ['$scope', 'HttpService', function ($scope, HttpServi
 
     $scope.submitNewItem = function (newTodo) {
         HttpService.postTodo(newTodo);
+
     };
 
     $scope.deleteTodo = function (index) {

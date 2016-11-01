@@ -13,3 +13,9 @@ app.config(function($routeProvider) {
    })
 });
 
+app.directive('mikeTheMink', [function() {
+    return {
+        restrict: 'EA',
+        template: '<img  onmouseover="this.src=\'../angular-favorite-state/imgs/mike.jpg\'" >'
+    }
+}]);
