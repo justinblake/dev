@@ -13,5 +13,8 @@ app.config(function ($routeProvider) {
     }).when('/html/quote', {
         templateUrl: 'html/quote.html',
         controller: 'QuoteCtrl'
+    }).when('/html/giphy', {
+        templateUrl: 'html/giphy.html',
+        controller: 'GiphyCtrl'
     })
 });

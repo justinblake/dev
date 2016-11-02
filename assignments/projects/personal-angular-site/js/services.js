@@ -4,6 +4,7 @@ app.service('HttpService', ['$http', function ($http) {
     urbanObject = {};
     chuckObject = {};
     quoteObject = {};
+    giphyObject = {};
 
     this.urbanDefinition = function (word) {
         var config = {
@@ -60,5 +61,22 @@ app.service('HttpService', ['$http', function ($http) {
             });
 
     };
+
+    this.randomGifGetter = function() {
+        var config = {
+            headers: {
+                'X-Mashape-Key': 'A4oU5JntM4msh7FPKTwyEKDFxyrcp1E1DVnjsnTERd2TtOCT79',
+                'Accept': 'application/json'
+            }
+        };
+
+        return $http.get('https://giphy.p.mashape.com/v1/gifs/trending?api_key=dc6zaTOxFJmzC&limit=20', config)
+            .then(function(response) {
+                giphyObject = response.data;
+                console.log('giphyObject inside get service: ' + giphyObject)
+            });
+    }
+
+
 
 }]);
