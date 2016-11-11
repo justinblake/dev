@@ -1,0 +1,11 @@
+img {
+    height: auto;
+    width: auto;
+    max-width: 90px;
+    max-height: 90px;
+}
+
+.well {
+    border: 5px solid white;
+    border-radius: 14px;
+}

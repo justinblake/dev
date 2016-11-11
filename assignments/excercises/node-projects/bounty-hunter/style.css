@@ -1,0 +1,74 @@
+.well {
+    height: 240px;
+    border: 10px solid white;
+    border-radius: 35px;
+    padding: 10px;
+}
+
+.my-cont {
+    padding: 10px 20px 10px 20px;
+}
+
+.bottom-well {
+    height: 295px;
+}
+
+label {
+    display: inline-block;
+    float: left;
+    clear: left;
+    width: 40%;
+    text-align: right;
+    font-size: 18px;
+}
+
+input {
+    display: inline-block;
+    float: left;
+    margin-left: 5px;
+    margin-bottom: 6px;
+    width: 40%
+}
+
+.post-btn {
+    margin-top: 33px;
+}
+
+.delete-btn {
+    margin-top: 160px;
+}
+
+@media screen and (max-width: 1790px) {
+    .bottom-well {
+        height: 290px;
+    }
+
+
+
+}
+
+
+
+@media screen and (max-width: 1590px) {
+    .bottom-well {
+        height: 340px;
+    }
+
+    label {
+        font-size: 15px;
+    }
+
+
+}
+
+@media screen and (max-width: 1110px) {
+    label {
+        font-size: 13px;
+    }
+
+    .bottom-well {
+        height: 300px;
+    }
+
+}
+

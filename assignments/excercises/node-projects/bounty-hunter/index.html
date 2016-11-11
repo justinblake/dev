@@ -1,20 +1,115 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" ng-app="MyApp">
 <head>
     <meta charset="UTF-8">
-    <title>$Title$</title>
+    <title>Bounty Hunter</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
           integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
     <link href="style.css" rel="stylesheet">
 </head>
-<body>
-$END$
+<body ng-controller="MainCtrl">
+
+<nav class="navbar navbar-default"></nav>
+
+<div class="row">
+    <div class="col-md-2"></div>
+    <div class="col-md-8 text-center">
+        <button class="btn btn-primary btn-lg" ng-click="getBountyObject()">Get Bounty Object</button>
+    </div>
+    <div class="col-md-2"></div>
+</div>
+
+<div class="row my-cont">
+    <div class="col-md-3 col-sm-6 col-xs-12 well" ng-repeat="person in myBountyObject">
+        <div class="col-md-12 col-sm-12 col-xs-12">
+            <h3>Name: {{person.firstName}} {{person.lastName}} </h3>
+
+            <h4>Living: {{person.living}} </h4>
+            <h4>Bounty Amount: {{person.bountyAmount}} </h4>
+            <h4>Type: {{person.type}}</h4>
+            <h5>ID: {{person.id}}</h5>
+        </div>
+        <div class="col-md-1"></div>
+    </div>
+</div>
+
+<div class="row my-cont">
+    <div class="col-md-4 col-sm-6 col-xs-12 well bottom-well text-center" ng-show="isShown">
+        <div class="col-md-12 col-sm-12 col-xs-12">
+            <label for="newFirstName">New First Name: </label>
+            <input id="newFirstName" ng-model="newBountyId.firstName">
+        </div>
+        <div class="col-md-12 col-sm-12 col-xs-12">
+            <label for="newLastName">New Last Name: </label>
+            <input id="newLastName" ng-model="newBountyId.lastName">
+        </div>
+        <div class="col-md-12 col-sm-12 col-xs-12">
+            <label for="newIsLiving">Living? T/F: </label>
+            <input id="newIsLiving" ng-model="newBountyId.living">
+        </div>
+        <div class="col-md-12 col-sm-12 col-xs-12">
+            <label for="newBountyAmount">Bounty Amount:</label>
+            <input id="newBountyAmount" ng-model="newBountyId.bountyAmount">
+        </div>
+        <div class="col-md-12 col-sm-12 col-xs-12">
+            <label for="newPersonType">Sith or Jedi: </label>
+            <input id="newPersonType" ng-model="newBountyId.type">
+        </div>
+        <div class="col-md-12 col-sm-12 col-xs-12 post-btn">
+            <button class="btn btn-primary btn-lg" ng-click="postNewBounty(newBountyId)">Submit New Bounty</button>
+        </div>
+    </div>
+    <div class="col-md-4 col-sm-6 col-xs-12 well bottom-well text-center" ng-show="isShown">
+        <div class="col-md-12 col-sm-12 col-xs-12">
+            <label for="bountyId">Bounty ID: </label>
+            <input id="bountyId" ng-model="bountyId.id">
+        </div>
+        <div class="col-md-12 col-sm-12 col-xs-12">
+            <label for="firstName">New First Name: </label>
+            <input id="firstName" ng-model="bountyId.firstName">
+        </div>
+        <div class="col-md-12 col-sm-12 col-xs-12">
+            <label for="lastName">New Last Name: </label>
+            <input id="lastName" ng-model="bountyId.lastName">
+        </div>
+        <div class="col-md-12 col-sm-12 col-xs-12">
+            <label for="isLiving">Living, T/F: </label>
+            <input id="isLiving" ng-model="bountyId.living">
+        </div>
+        <div class="col-md-12 col-sm-12 col-xs-12">
+            <label for="bountyAmount">Bounty Amount:</label>
+            <input id="bountyAmount" ng-model="bountyId.bountyAmount">
+        </div>
+        <div class="col-md-12 col-sm-12 col-xs-12">
+            <label for="personType">Sith or Jedi: </label>
+            <input id="personType" ng-model="bountyId.type">
+        </div>
+        <div class="col-md-12 col-sm-12 col-xs-12">
+            <button class="btn btn-warning btn-lg" ng-click="putNewBounty(bountyId.id, bountyId)">Update Existing
+                Bounty
+            </button>
+        </div>
+    </div>
+    <div class="col-md-4 col-sm-6 col-xs-12 well bottom-well text-center" ng-show="isShown">
+        <div class="col-md-12 col-sm-12 col-xs-12">
+            <label for="deleteBountyId">ID to Delete: </label>
+            <input id="deleteBountyId" ng-model="deleteBountyId.id">
+        </div>
+        <div class="col-md-12 col-sm-12 col-xs-12 delete-btn">
+            <button class="btn btn-danger btn-lg" ng-click="deleteBounty(deleteBountyId.id)">Delete Bounty</button>
+        </div>
+    </div>
+</div>
+
+
 
 
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular-route.js"></script>
 <script src="app.js"></script>
+<script src="services.js"></script>
+<script src="services.js"></script>
 
 </body>
 </html>

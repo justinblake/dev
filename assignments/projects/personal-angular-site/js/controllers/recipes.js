@@ -1,49 +1,20 @@
 var app = angular.module('MyApp');
 
-app.controller('GiphyCtrl', ['$scope', 'HttpService','$sce', function($scope, HttpService, $sce) {
+app.controller('RecipeCtrl', ['$scope', 'HttpService', function($scope, HttpService) {
 
-    $scope.userInput = '';
+    $scope.myRecipeArray = [];
+    $scope.isShown = false;
 
-    $scope.myGiphyUrl = '';
-
-    $scope.getRandom = function(userInput) {
+    $scope.getRecipes = function(userInput) {
         console.log(userInput);
-        HttpService.randomGifGetter(userInput)
-            .then(function(){
-                $scope.myGiphyUrl = giphyUrl[0].images.fixed_height.mp4;
-                console.log($scope.myGiphyUrl);
 
+        HttpService.recipeGetter(userInput)
+            .then(function(response) {
+                $scope.myRecipeObject = recipeObject;
+                console.log('$scope.myRecipeArray ' + $scope.myRecipeArray);
+                $scope.isShown = true;
             })
-    };
+    }
 
-    $scope.config = {
-        sources: [
-            {
-                src: $sce.trustAsResourceUrl($scope.myGiphyUrl),
-                type: "video/mp4"
-            },
-            {
-                src: $sce.trustAsResourceUrl("http://static.videogular.com/assets/videos/videogular.webm"),
-                type: "video/webm"
-            },
-            {
-                src: $sce.trustAsResourceUrl("http://static.videogular.com/assets/videos/videogular.ogg"),
-                type: "video/ogg"
-            }
-        ],
-        tracks: [
-            {
-                src: $scope.myGiphyUrl,
-                kind: "subtitles",
-                srclang: "en",
-                label: "English",
-                default: ""
-            }
-        ],
-        theme: "node_modules/videogular-themes-default/videogular.css",
-        plugins: {
-            poster: "http://www.videogular.com/assets/images/videogular.png"
-        }
-    };
 
 }]);

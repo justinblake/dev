@@ -47,3 +47,18 @@
 .odd {
  color: blue;
 }
+
+.recipe-image {
+    height: auto;
+    width: auto;
+    max-height: 600px;
+    max-width: 600px;
+
+}
+
+.recipe-btn {
+
+    padding-left: 36.5%;
+    margin-bottom: 15px;
+
+}

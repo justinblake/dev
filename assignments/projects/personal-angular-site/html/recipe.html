@@ -1,0 +1,30 @@
+<div class="row">
+    <div class="col-md-4"></div>
+    <div class="col-md-4">
+        <div class="col-md-12 input-format">
+            <input id="recipe-input" ng-model="recipeInput" placeholder="Search">
+        </div>
+        <div class="col-md-12 recipe-btn">
+            <button ng-click="getRecipes(recipeInput)" class="btn btn-primary btn-lg">Submit</button>
+        </div>
+    </div>
+</div>
+
+
+
+
+<div class="row">
+
+    <div class="container">
+        <div class="row entry-format" ng-repeat="item in myRecipeObject.recipes" ng-show="isShown">
+            <label for="title">Author: </label>
+            <input class="no-border" id="title" value="{{item.title}}">
+            <p><a ng-href={{item.source_url}}>Source Url: {{item.source_url}} </a></p>
+            <figure>
+                <img class="recipe-image" ng-src={{item.image_url}}>
+                <figcaption>{{item.title}}</figcaption>
+            </figure>
+        </div>
+    </div>
+
+</div>

@@ -4,7 +4,7 @@ app.service('HttpService', ['$http', function ($http) {
     urbanObject = {};
     chuckObject = {};
     quoteObject = {};
-    giphyObject = {};
+    recipeObject = {};
 
     this.urbanDefinition = function (word) {
         var config = {
@@ -46,7 +46,7 @@ app.service('HttpService', ['$http', function ($http) {
 
         var selection = '';
 
-        if(decision === "option-1") {
+        if (decision === "option-1") {
             selection = 'famous';
             console.log('this is the famous if');
         } else {
@@ -55,28 +55,28 @@ app.service('HttpService', ['$http', function ($http) {
         }
 
         return $http.get('https://andruxnet-random-famous-quotes.p.mashape.com/?cat=' + selection, config)
-            .then(function(response) {
+            .then(function (response) {
                 quoteObject = response.data;
                 console.log('quoteObject = ' + quoteObject);
             });
 
     };
 
-    this.randomGifGetter = function() {
+    this.recipeGetter = function (userInput) {
         var config = {
             headers: {
-                'X-Mashape-Key': 'A4oU5JntM4msh7FPKTwyEKDFxyrcp1E1DVnjsnTERd2TtOCT79',
+                'X-Mashape-Key': 'Ur4ecTkXzxmshDUIzHmhHydkcFxBp1M8BQ0jsnzyRzr1BO5mmR',
                 'Accept': 'application/json'
             }
         };
 
-        return $http.get('https://giphy.p.mashape.com/v1/gifs/trending?api_key=dc6zaTOxFJmzC&limit=20', config)
-            .then(function(response) {
-                giphyObject = response.data;
-                console.log('giphyObject inside get service: ' + giphyObject)
-            });
-    }
+        return $http.get('https://community-food2fork.p.mashape.com/search?key=8c6f706aa45f42c453e47a480c7d8c5f&q=' + userInput, config)
+            .then(function (response) {
+                recipeObject = response.data;
+                console.log('recipeObject ' + recipeObject);
+            })
 
+    }
 
 
 }]);

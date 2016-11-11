@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$/assignments/excercises/node-projects/bounty-hunter" libraries="{dev/assignments/excercises/node-projects/bounty-hunter/node_modules}" />
+    <file url="file://$PROJECT_DIR$/assignments/excercises/node-projects/express-review" libraries="{dev/assignments/excercises/node-projects/express-review/node_modules}" />
+    <file url="file://$PROJECT_DIR$/assignments/excercises/node-projects/intercepted" libraries="{dev/assignments/excercises/node-projects/intercepted/node_modules}" />
     <file url="file://$PROJECT_DIR$/assignments/excercises/node-projects/intro-to-express" libraries="{dev/assignments/excercises/node-projects/intro-to-express/node_modules}" />
+    <file url="file://$PROJECT_DIR$/assignments/excercises/node-projects/mongoose-practice" libraries="{dev/assignments/excercises/node-projects/mongoose-practice/node_modules}" />
+    <file url="file://$PROJECT_DIR$/assignments/excercises/node-projects/rock-the-vote" libraries="{dev/assignments/excercises/node-projects/rock-the-vote/node_modules}" />
+    <file url="file://$PROJECT_DIR$/assignments/excercises/node-projects/thing-finder" libraries="{dev/assignments/excercises/node-projects/thing-finder/node_modules}" />
+    <file url="file://$PROJECT_DIR$/assignments/excercises/node-projects/todo-express" libraries="{dev/assignments/excercises/node-projects/todo-express/node_modules}" />
     <file url="PROJECT" libraries="{556d038cd3, angular, angular-route, bootstrap, jquery, material}" />
+    <includedPredefinedLibrary name="Node.js Core" />
   </component>
 </project>

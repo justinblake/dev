@@ -3,7 +3,6 @@ var newGrid = require('./grid');
 
 function playGame() {
     var myGrid = newGrid.grid;
-    console.log(myGrid);
 
     var hitShips = 0;
     var newArray = [];
